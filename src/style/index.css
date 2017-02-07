@@ -1,0 +1,28 @@
+a {
+  text-decoration: none;
+}
+header {
+  width: 100%;
+  height: 80px;
+  background-color: #66CCFF;
+}
+header div {
+  padding: 0 100px;
+  width: 100%;
+  height: 100%;
+}
+header a {
+  color: #000000;
+  font-size: 32px;
+  border: 1px solid red;
+  display: inline-block;
+  width: 128px;
+  height: auto;
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.container {
+  background-color: #66CCFF;
+}
